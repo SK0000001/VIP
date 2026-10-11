@@ -1,0 +1,2 @@
+# Requirements for Placement Readiness Assistant
+streamlit>=1.30.0
